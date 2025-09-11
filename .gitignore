@@ -1,0 +1,25 @@
+# Compiled files
+*.pyc
+__pycache__/
+*.so
+*.o
+
+# Output files
+*.out
+*.log
+results/
+figures/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+
+# Large data files (use Git LFS instead)
+*.hdf5
+*.nc
+data/raw/
